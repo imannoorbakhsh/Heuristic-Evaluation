@@ -1,1 +1,5 @@
-# Heuristic-Evaluation
+# Description
+Toward the completion of the interaction design specialization, I have done several assignments. In one of the courses, I had to perform the heuristic evaluation. My task was to compare the process of buying a round-trip ticket on two websites or apps. I started from the homepage and worked my way through the task while writing down the usability problems.
+</br> In my first assignment, I evaluated [southwest.com](https://www.southwest.com/), a website that helps you find flight tickets, rent a car, booking a hotel room, etc. 
+</br> As my second assignment, I evaluated [thetrainline.com](https://www.thetrainline.com/), a website that helps you find train tickets, coach tickets, etc.
+</br> **Note:** Since I am more computer savvy than ordinary people, I would naturally avoid errors that other peoples run into while interacting with websites and applications. To address this, I actively stress test application by omitting a particular field, entering incorrect data, or clicking on a different link than I would normally.
